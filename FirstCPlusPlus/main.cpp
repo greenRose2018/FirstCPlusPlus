@@ -19,5 +19,6 @@ int main()
     //cin >> word;
     
     cout << "Hello " << word << endl;
+    cout  <<(3 + 5 * 43) << endl;
     return 0;
 }
